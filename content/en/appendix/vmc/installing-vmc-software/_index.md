@@ -50,7 +50,7 @@ wrap it in quotes as shown above.
 ## Install
 
 ```bash
-git clone --recurse-submodules https://github.com/bellflight/AVR-VMC ~/AVR-VMC
+git clone --recurse-submodules https://github.com/nathanvaughn/AVR-VMC ~/AVR-VMC
 cd ~/AVR-VMC/
 chmod +x install.py
 ./install.py

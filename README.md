@@ -6,7 +6,7 @@
 
 ```bash
 # not needed in a DevContainer
-git clone https://github.com/bellflight/AVR-Docs
+git clone https://github.com/nathanvaughn/AVR-Docs
 cd AVR-Docs
 npm install
 code .

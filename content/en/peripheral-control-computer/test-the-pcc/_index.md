@@ -31,7 +31,7 @@ Now it's time to download the AVR GUI program.
 ### Windows
 
 Go to the latest
-[AVR software release](https://github.com/bellflight/AVR-GUI/releases/latest) and
+[AVR software release](https://github.com/nathanvaughn/AVR-GUI/releases/latest) and
 download the `AVRGUI.<hash>.exe` file. Like QGroundControl, you may need to bypass some
 warnings about being an untrusted file.
 
@@ -57,14 +57,14 @@ installer:
 [https://www.python.org/downloads/macos/](https://www.python.org/downloads/macos/)
 
 Now, run commands
-[on the repository page](https://github.com/bellflight/AVR-GUI/blob/main/README.md#development)
+[on the repository page](https://github.com/nathanvaughn/AVR-GUI/blob/main/README.md#development)
 to clone the code repository where desired, and setup the dependencies:
 
 ```bash
 python -m pip install pipx --upgrade
 pipx ensurepath
 pipx install poetry
-git clone https://github.com/bellflight/AVR-GUI
+git clone https://github.com/nathanvaughn/AVR-GUI
 cd AVR-GUI
 poetry install --sync
 poetry shell

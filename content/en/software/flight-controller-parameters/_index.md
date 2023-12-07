@@ -9,7 +9,7 @@ controller processes sensor input, and we need to tell it to unconditionally tru
 data the AVR software feeds it.
 
 First, download the parameter file from the latest GitHub release:
-[https://github.com/bellflight/AVR-PX4-Firmware/releases/latest](https://github.com/bellflight/AVR-PX4-Firmware/releases/latest)
+[https://github.com/nathanvaughn/AVR-PX4-Firmware/releases/latest](https://github.com/nathanvaughn/AVR-PX4-Firmware/releases/latest)
 
 ![](2022-12-27-19-05-08.png)
 

@@ -140,7 +140,7 @@ of motion.
 
 {{% alert title="Note" color="note" %}} If you do not have the "invert joystick" option
 in your GUI be sure you have the
-[latest release](https://github.com/bellflight/AVR-GUI/releases/latest) of the GUI.
+[latest release](https://github.com/nathanvaughn/AVR-GUI/releases/latest) of the GUI.
 {{% /alert %}}
 
 Command used in the video:

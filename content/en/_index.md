@@ -46,4 +46,4 @@ A good kit that contains most of the tools that you will need can be found here:
 - [Game Manual](https://www.roboticseducation.org/documents/2022/08/emergency-firefighting-challenge-bell-avr-competition-game-manual.pdf/)
 - [Game Video](https://youtu.be/iJml75fcsLg)
 - [Bell AVR Forum](https://www.bellavrforum.org/)
-- [Flight Software](https://github.com/bellflight/AVR-VMC)
+- [Flight Software](https://github.com/nathanvaughn/AVR-VMC)

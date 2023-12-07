@@ -31,7 +31,7 @@ your own changes, you will need to **fork** the repository.
 A fork is a copy of a repository. You will be able to make changes to the code without
 modifying the original. To fork the template repository, click on the **fork** button on
 the top right of the
-[AVR Sandbox Module](https://github.com/bellflight/AVR-VMC-Sandbox-Module). If someone
+[AVR Sandbox Module](https://github.com/nathanvaughn/AVR-VMC-Sandbox-Module). If someone
 on your team has already done this, ask them to share access with you.
 
 ![Fork button location](2022-12-27-22-56-14.png)

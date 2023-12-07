@@ -37,5 +37,5 @@ Here is a description of the modules in AVR and what they all do.
 ![Module Flowchart](module-flow.jpg)
 
 Browse the modules under
-[AVR-VMC/modules](https://github.com/bellflight/AVR-VMC/tree/main/modules) to learn more
+[AVR-VMC/modules](https://github.com/nathanvaughn/AVR-VMC/tree/main/modules) to learn more
 about what each one does.
